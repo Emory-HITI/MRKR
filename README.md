@@ -28,6 +28,10 @@ The dataset will be hosted with Open Data on AWS.<br><br>
 
 Will be available soon<br><br>
 
+### License
+
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a><br><br>
+
 ### MRKR Dataset Patient Summary Statistics
 <table border="1">
   <tr>
