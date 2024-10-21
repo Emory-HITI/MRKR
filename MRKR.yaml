@@ -30,7 +30,7 @@ License: "CC-BY-SA"
 Citation: "Will be available soon."
 Resources:
   - Description: MRKR dataset and tables
-    ARN: arn:aws:s3:::emory-mrkr
+    ARN: arn:aws:s3:::emory-mrkr-dataset
     Region: us-west-2
     Type: S3 Bucket
 DataAtWork:
