@@ -262,7 +262,7 @@ Will be available soon<br><br>
     <tr>
         <td>obesity</td>
         <td>Binary</td>
-        <td>If ICD code corresponds to knee obesity.</td>
+        <td>If ICD code corresponds to obesity.</td>
     </tr>
     <tr>
         <td>nicotine_use</td>
