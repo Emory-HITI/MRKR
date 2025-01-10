@@ -1,6 +1,6 @@
 # Emory Knee Radiograph (MRKR) Dataset
 <br>
-Data description of the Emory Knee Radiograph (MRKR) Dataset hosted by Open Data on AWS.
+Data description of the Emory Knee Radiograph (MRKR) Dataset hosted by <a href='https://registry.opendata.aws/mrkr/'>Open Data on AWS</a>.
 <br><br>
 An example notebook is included.
 <br><br>
