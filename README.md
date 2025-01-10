@@ -25,8 +25,7 @@ each containing clinical and metadata.
 The dataset will be hosted with Open Data on AWS.<br><br>
 
 ### Publication
-
-Will be available soon<br><br>
+Pre-print: https://arxiv.org/abs/2411.00866.<br><br>
 
 ### License
 
