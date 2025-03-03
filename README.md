@@ -313,7 +313,7 @@ Pre-print: https://arxiv.org/abs/2411.00866.<br><br>
   <td colspan="3">
     Filename: MRKR_pain.csv<br>
     File size: 137 MB<br>
-    Total rows: 4,975,933<br>
+    Total rows: 4,970,869<br>
     Description: Contains information on self-reported pain scores by patients during any encounter, including outpatient, emergency, and perioperative. Pain scores related to knees are curated.
   </td>
 </tr>
